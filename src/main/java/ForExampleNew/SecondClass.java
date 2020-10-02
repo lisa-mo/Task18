@@ -1,5 +1,5 @@
 package ForExampleNew;
-
+// new-new comment for second class
 public class SecondClass {
 
     public static void main(String[] args) {
