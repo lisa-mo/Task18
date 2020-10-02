@@ -1,5 +1,4 @@
 package ForExampleNew;
 
-public class
-FifthClass {
+public class FifthClass {
 }
