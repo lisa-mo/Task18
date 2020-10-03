@@ -6,4 +6,4 @@
 *.exe binary
 *.txt merge=text
 *.jpg merge=binary
-/C:\Users\Brainstormer\IdeaProjects\Task18\src\main\java\ForExampleNew\ForWork.java merge=union
+/Readme.md merge=union
