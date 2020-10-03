@@ -9,4 +9,9 @@ public class SecondClass {
     private static void string(int n) {
         n = 0;
     }
+
+    private static void string2(int m) {
+        m = 0;
+    }
+
 }
