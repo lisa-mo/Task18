@@ -4,3 +4,5 @@
 *.png diff=image
 *.svg diff=image
 *.exe binary
+*.txt merge=text
+*.jpg merge=binary
