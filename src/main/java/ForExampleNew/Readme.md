@@ -1,7 +1,3 @@
-# Hello there
+# Project news
 
-That`s a text about git.
-
-Let`s see how simple wordregex works here.
-
-*Make changes and take a look.*
+* We have cookies!
