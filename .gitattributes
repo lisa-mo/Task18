@@ -6,3 +6,4 @@
 *.exe binary
 *.txt merge=text
 *.jpg merge=binary
+merge=union
