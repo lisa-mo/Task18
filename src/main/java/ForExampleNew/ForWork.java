@@ -1,10 +1,10 @@
 package ForExampleNew;
-// Union
+
 public class ForWork {
 
     public static class FirstClass {
         public static void main(String[] args) {
-            System.out.println("ForWork");
+            System.out.println("  ");
         }
     }
 }
