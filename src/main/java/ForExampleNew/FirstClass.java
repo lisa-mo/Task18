@@ -1,3 +1,5 @@
+package ForExampleNew;
+
 public class FirstClass {
 //    Simple comment
     public static void main(String[] args) {
