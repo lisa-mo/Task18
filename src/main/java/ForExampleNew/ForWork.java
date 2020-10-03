@@ -1,5 +1,5 @@
 package ForExampleNew;
-// Union
+
 public class ForWork {
 
     public static class FirstClass {
